@@ -2,4 +2,4 @@
 
 Snake game realised using `pygame` module
 
-AI trained using a Deep Q model of **Pytorch**
+AI trained using a _Deep Q model_ of **Pytorch**
